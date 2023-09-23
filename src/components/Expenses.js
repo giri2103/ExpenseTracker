@@ -1,6 +1,6 @@
-import "./NewExpense.css";
+import "./Expenses.css";
 import ExpenseItem from "./ExpenseItem";
-function NewExpense(props) {
+function Expenses(props) {
   return (
     <div className="expenses">
       <ExpenseItem
@@ -27,4 +27,4 @@ function NewExpense(props) {
   );
 }
 
-export default NewExpense;
+export default Expenses;
