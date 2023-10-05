@@ -32,7 +32,7 @@ Start the server
 
 ## Demo
 
-Insert gif or link to demo
+<a href="https://expenseschecker.netlify.app/">Expense Tracker</a>
 
 
 ## Screenshots
