@@ -38,5 +38,5 @@ Start the server
 
 ## Screenshots
 
-<img src="https://drive.google.com/file/d/1eRpaZmnzvqwd3pvNBA6X139ESbSTSj15/view?usp=sharing" alt="..."></img>
+<img src="https://drive.google.com/uc?export=view&id=[1eRpaZmnzvqwd3pvNBA6X139ESbSTSj15]" alt="..."></img>
 
