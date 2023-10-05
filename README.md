@@ -1,6 +1,7 @@
 # ExpenseTracker
-This is the begineer level project created by me while learning React created this expense tracker which will help user to track his expenses monthly wise
+This is the app which is totally created using ReactJS, I have used the react component concept also used state for handling the updates, dynamic list and etc. This app helps user to find it's monthly expenditure for each year user can add the data and the data will be added to the list dynamically with the help of 'useState' and will be shown.
 
+I have created this app to apply the concept which I learned till now in react also I will be use this after I learn the backend web development then I will create a login page for different user where user can login and track their expenses.
 
 ## Run Locally
 
@@ -37,5 +38,5 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1eRpaZmnzvqwd3pvNBA6X139ESbSTSj15/view?usp=sharing)
 
